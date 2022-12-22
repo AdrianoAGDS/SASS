@@ -1,6 +1,6 @@
 **Site Responsivo feito SASS e SCSS**
 
-- [X] Desenvolvimento de um site Simples em HTML e CSS Responsivo.
+- [X] Desenvolvimento de um site Responsivo.
 
 - [X] Utilização do SASS e SCSS
 
